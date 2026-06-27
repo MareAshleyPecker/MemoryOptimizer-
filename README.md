@@ -1,6 +1,6 @@
-一个基于PCL的内存优化软件，以悬浮窗为主要方式，快速点击悬浮窗开始优化，右键打开设置，可最小化
+一个基于PCL的内存优化方式的软件，以悬浮窗为主要方式，快速点击悬浮窗开始优化，右键打开设置，可最小化
 | 
-A PCL-based memory optimization software, primarily utilizing a floating window. Click the floating window quickly to start optimization, right-click to open settings, and it can be minimized.
+A software based on PCL for memory optimization, using a floating window as the main interface. Quickly click the floating window to start optimization, right-click to open settings, and it can be minimized.
 
 Minecraft 启动器 Plain Craft Launcher（PCL）
 | 
