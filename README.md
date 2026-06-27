@@ -1,15 +1,17 @@
-zh_CN：
-一个基于PCL的内存优化软件，以悬浮窗为主要方式
-快速点击悬浮窗开始，
-右键打开设置，可最小化
+一个基于PCL的内存优化软件，以悬浮窗为主要方式，快速点击悬浮窗开始优化，右键打开设置，可最小化
+| 
+A PCL-based memory optimization software, primarily utilizing a floating window. Click the floating window quickly to start optimization, right-click to open settings, and it can be minimized.
 
-en_US:
-A PCL-based memory optimization software, mainly using a floating window.  
-Quickly click the floating window to start,  
-right-click to open settings, can be minimized.
+Minecraft 启动器 Plain Craft Launcher（PCL）
+| 
+Minecraft Launcher - Plain Craft Launcher(PCL)
 
+PCLgithub github: https://github.com/Meloong-Git/PCL
 
+用claudecode + deepseek-v4pro写的，基于C++17，使用CMake构建，平均内存占用0.4~0.5MB
+| 
+Written in ClaudeCode with deepseek-v4pro, based on C++17, built with CMake, with an average memory usage of 0.4–0.5 MB
 
-用claudecode写的，基于C++17，平均内存占用0.4~0.5MB
-
-Written with Claudecode, based on C++17, using about 0.4~0.5MB of memory on average
+暂无图标，可以本地构建自定义图标
+| 
+No icons available for now, you can locally build custom icons
