@@ -12,12 +12,8 @@ cmake-build-*/
 *.ilk
 *.exp
 
-# IDE - only keep .idea/ project files we explicitly track
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/dictionaries/
-.idea/shelf/
-.idea/inspectionProfiles/
+# IDE
+.idea/
 
 # OS files
 Thumbs.db
@@ -25,3 +21,5 @@ Thumbs.db
 
 # Runtime files
 *.ini
+
+.claude
