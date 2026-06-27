@@ -7,3 +7,9 @@ en_US:
 A PCL-based memory optimization software, mainly using a floating window.  
 Quickly click the floating window to start,  
 right-click to open settings, can be minimized.
+
+
+
+用claudecode写的，基于C++17，平均内存占用0.4~0.5MB
+
+Written with Claudecode, based on C++17, using about 0.4~0.5MB of memory on average
