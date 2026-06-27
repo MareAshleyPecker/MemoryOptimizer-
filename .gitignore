@@ -1,0 +1,27 @@
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-*/
+
+# Compiled executables
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.exp
+
+# IDE - only keep .idea/ project files we explicitly track
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/shelf/
+.idea/inspectionProfiles/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Runtime files
+*.ini

@@ -1,0 +1,4 @@
+#include <windows.h>
+#include "resource.h"
+
+// No external icon file needed — icon is created programmatically
